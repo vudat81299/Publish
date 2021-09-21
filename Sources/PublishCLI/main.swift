@@ -13,7 +13,7 @@ import PublishCLICore
 
 let cli = CLI(
     publishRepositoryURL: URL(
-        string: "https://github.com/johnsundell/publish.git"
+        string: "https://github.com/vudat81299/publish.git"
     )!,
     publishVersion: "0.7.0"
 )
